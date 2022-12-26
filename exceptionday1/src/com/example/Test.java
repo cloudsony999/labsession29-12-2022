@@ -1,3 +1,6 @@
+/*
+ * @Author This code is written by Amitava
+ */
 package com.example;
 
 import com.example.logic.DivideANumber;
